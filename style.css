@@ -3,6 +3,7 @@ body {
     background-image: url("assets/Hintergrund/bg.png");
     font-family: Arial, Helvetica, sans-serif;
     margin: auto;
+    margin-bottom: 20px;
 }
 
 #menu {
@@ -372,4 +373,6 @@ header {
         padding: 14px;
         text-decoration: none;
     }
+    /* Galerie*/
+
 }

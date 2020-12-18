@@ -332,10 +332,12 @@ header {
         font-weight: bold;
     }
     .bilder {
-        width: 520px;
+        width: 400px;
+        max-height: 500px;
+        display: inline;
     }
     .videos {
-        width: 520px;
+        width: 400px;
     }
     #aktuell {
         background-color: bisque;
@@ -346,6 +348,11 @@ header {
     }
     .internnav * {
         background-color: bisque;
+    }
+
+    #fotos {
+        float: left;
+        display: inline;
     }
 
     /*Main Navigation*/

@@ -283,6 +283,9 @@ header {
     .linknobackground {
         background: none;
     }
+    .rechts {
+        text-align: left;
+    }
     #nav-sec:hover #icon-farbe {
         opacity: 100%;
         width: 53px;
